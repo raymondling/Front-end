@@ -5,4 +5,4 @@ git tracks changes of files.
 Creating a new branch is quick and simple.
 分支管理策略
 新的分支管理策略
-修复了bug
+新建了一个bug
